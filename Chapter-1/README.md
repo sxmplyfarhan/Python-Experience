@@ -7,9 +7,11 @@ i would like to clarify that all the operations and everything explained here wa
 
 So comments in python start with the hash character or better known as #. for example:
 
+<pre>
 ```python
 #This is a comment. 
 >>> azanegay = 0 #This is also a comment.
+<pre/>
 
 As you can see comments can be placed at the start of the line or even after the part of the code as visualised above.
 
