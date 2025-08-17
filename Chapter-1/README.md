@@ -16,8 +16,9 @@ As you can see comments can be placed at the start of the line or even after the
 
 But if the comment is inside of a quote it isnt a comment, just a regular text. An example:
 
-`>>> huza = "This is not a comment."`
-
+```
+>>> huza = "This is not a comment."
+```
 
 # Numbers 1.2
 
