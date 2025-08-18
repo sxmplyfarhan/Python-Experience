@@ -74,4 +74,33 @@ OHH YEHAHH thats what i was forgetting you can use the equal sign to assign a va
 
 # Text 1.3
 
+So yeah folks welcome to texts. Sooo to start we can know that python can manipulate text or well "strings" as well as numbers. This includes everying, even text and sentences. they can be enclosed in single quotes or doube quotes. Result doesnt change.
 
+```
+>>> "Azan e' gay."
+"Azan e' gay."
+>>> 'Bread'
+'Bread'
+>>> '1969'
+'1969'
+```
+
+okayy so i can go and explain more but instead ill make a list you can read and at the bottom there will be exals:
+
+- to quote a quote, we kinda gotta escape it, i think you can do this by preceding it with a  `\` or we can use other types of quotation.
+- also a very useful thing is if you wanna go down a life to type more text you  can \n btw you can also use print() fr a more readble output.. 
+- oh yeah also if you dont want characters to be prefaced by `\` just put an `r`.
+
+```
+>>> 'doesn\'t'
+"doesn't"
+>>> "doesn't"
+"doesn't"
+>>> phuc = 'first person \nSecond person '
+>>> print(phuc)
+first person
+Second person
+>>> print(r"\home\nerds")
+\home\nerds
+
+```
