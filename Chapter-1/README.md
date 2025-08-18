@@ -104,3 +104,22 @@ Second person
 \home\nerds
 
 ```
+
+This is prodably the last part for text 1.3 but also the last part for this chapter. a complete chapter per day i guess. 
+
+So strings can be indexed, with the fist character having index 0. There is no seperate character type; a character is simply a string of size one :
+
+```
+>>> word = 'Azan'
+>>> word[0]
+'A'
+```
+
+They can also be the negative numbers for example:
+
+```
+word[-1]
+'n'
+```
+
+That is it for chapter 1. Pretty simple i guess i suggest trying it yourself and experimenting. Well yeah see ya next chapter!
