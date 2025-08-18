@@ -52,3 +52,26 @@ Divisions (`/`) always return a float. in the examle you can use `/` for varios 
 >>> 5 * 6 + 2 # extra calculation.
 32
 ```
+
+Oh yeah, in python its possible to use the operator `**`to calculate powers. as shown below 
+
+```
+>>> 2 ** 2 #Square root of 2. simple ay? 
+4
+>>> 4 ** 3 # 4 to the power of 3. Fairly simple ez xd.
+64
+
+```
+OHH YEHAHH thats what i was forgetting you can use the equal sign to assign a value to a varible. 
+
+```
+>>> base = 4 
+>>> height = 5
+>>> area = base * height # calculating the area of a rectangle. pretty nerdy xd.
+>>> area
+20
+```
+
+# Text 1.3
+
+
